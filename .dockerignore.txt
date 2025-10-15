@@ -1,0 +1,6 @@
+node_modules
+npm-debug.log
+cards.db
+.env
+.DS_Store
+.git
